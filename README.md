@@ -4,7 +4,7 @@
 
 ## Web page
 
-[my-leads.herokuapp.com]: https://my-leads.herokuapp.com/
+[my-leads.herokuapp.com](https://my-leads.herokuapp.com/)
 
 # Installing
 
